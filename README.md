@@ -1,4 +1,4 @@
-# Prime_Number_Code_Test_Ruby
+# Prime Number Code Test in Ruby
 ##
  This is will determine the 333rd prime number that both begins and ends with a 3.
  Here, I am using a custom method to determine if the number is prime.
